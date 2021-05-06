@@ -1,0 +1,9 @@
+wired-input {
+    font-family: inherit;
+}
+
+.handCardInput {
+    padding: 5px 5%;
+    width: 90%;
+    font-size: 18px;
+}

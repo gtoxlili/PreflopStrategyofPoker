@@ -1,0 +1,10 @@
+.listCaseStyle {
+    width: 100%;
+    --wired-item-selected-color: darkred;
+    --wired-item-selected-bg: pink;
+}
+
+.itemstyle {
+    font-size: 18px;
+    text-align: center;
+}

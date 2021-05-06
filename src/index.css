@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+  font-family: 'NaikaiFont';
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+::selection {
+  background: #000;
+  color: #fff;
+}
+
+.mainCard {
+  min-height: calc(100vh - 20px);
+  width: calc(100vw - 20px);
+  padding: 10px 20px;
+}
+
+.smalltitleStyle {
+  padding: 10px 0 10px;
+  font-size: 18px;
+}

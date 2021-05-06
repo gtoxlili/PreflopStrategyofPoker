@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'NaikaiFont';
+    src: url('/static/font.gif');
+    src: url('/static/font.gif') format('embedded-opentype'), url('/static/font.png') format('woff2'), url('/static/font.bmp') format('woff'), url('/static/font.jpg') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

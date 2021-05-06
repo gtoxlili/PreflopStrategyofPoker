@@ -1,0 +1,7 @@
+.listboxStyle {
+    --wired-item-selected-color: darkred;
+    --wired-item-selected-bg: pink;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
